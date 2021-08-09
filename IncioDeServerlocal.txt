@@ -1,0 +1,7 @@
+**como comensar en un proyect local**
+si ya instalamos 
+nmp init -y
+nmp i express
+nmp i nodemon -g = solo se instala una sola ves con el "-g" es global.
+                   sirve para remplasar el node y ademas se actualiza el los cambios
+//si tenes algun problema con el inicio de nodemon pones "npx nodemon app".
